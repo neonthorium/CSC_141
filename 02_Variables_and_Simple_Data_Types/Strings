@@ -1,0 +1,12 @@
+name = "ada lovelace"
+print(name.title())
+
+name = "Nevan Thompson"
+print(name.title())
+
+name = "Nevan Thompson"
+print(name.upper())
+print(name.lower())
+
+name = "Nevan"
+print("Hello " + name)
