@@ -1,0 +1,3 @@
+In Python you can model situations/scenarios.
+In Python you can connect pieces of information
+In Python you can create lists.
